@@ -89,6 +89,8 @@ div.box{
     margin: 100px;
     padding:2px;
 }
+
+
 div.topic{
     background-color: transparent;
     text-align: center; 
@@ -112,4 +114,13 @@ table1{
 img{
     width: 400px;
     
+}
+td{
+    text-align: center;
+}
+section{
+    text-align: center;  
+}
+p{
+    text-align: center;
 }
