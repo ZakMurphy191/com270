@@ -140,7 +140,16 @@ p{
     text-align: center;
 }
 .button {
-  background-color: aquamarine;
+ 
+  background-image: url(stick.png)
   color: black;
   border: 2px solid aquamarine
+}
+.icon{
+background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
 }
