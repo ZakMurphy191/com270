@@ -60,6 +60,14 @@ h1{
     text-transform: capitalize;
     
 }
+.data{
+    position: relative;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Bold';
+    text-transform: capitalize;
+}
 p{
     color: whitesmoke
 }
